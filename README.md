@@ -51,7 +51,7 @@ matter as well, not size alone.
 ## Files
 
 - `notebook7567021e1c (1).ipynb`: training, evaluation (mAP), and external tests.
-- Model weights (165 MB): [LINK to Kaggle/Hugging Face]
+- Model weights (165 MB): coming soon
 
 ## Credits
 
